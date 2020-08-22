@@ -1,10 +1,9 @@
 Belajar untuk Masuk perguruan tinggi
 - ITB T.Informatika
-    * T.DKV
-- Unpad T.Informatika 
-    * T.Telekomunikasi
-    * T.Dkv
-- Ui T.Informatika
+      * F.Sastra
+      * F.Hukum
+- Unpad T.Informatika
+      * F.Dkv
 - Polban T.informatika
-- Polman T.informatika
 - Unikom T.informatika
+- UGM T.informatika
